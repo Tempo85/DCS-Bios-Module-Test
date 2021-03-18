@@ -16,4 +16,5 @@ local defineFixedStepTumb = BIOS.util.defineFixedStepTumb
 local definePushButton = BIOS.util.definePushButton
 local defineIntegerFromGetter = BIOS.util.defineIntegerFromGetter
 
+definetumb("UC",, 34, 3003, 153, 1, {0,1}, nil, false, "Cockpit", "Under Carriage")
 BIOS.protocol.endModule()
